@@ -1,0 +1,27 @@
+_repo: Dilemmas-of-Pride--Vol-3-of-3-_35058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loudon, Mrs. (Margracia)
+    aliases:
+    - Loudon, Margratia
+    - Loudon, Margracia
+    gutenberg_agent_id: '37431'
+    url: http://www.gutenberg.org/2009/agents/37431
+description: ''
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Dilemmas of Pride, (Vol 3 of 3)
+url: http://www.gutenberg.org/ebooks/35058
